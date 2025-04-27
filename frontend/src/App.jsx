@@ -5,11 +5,11 @@ import Footer from './components/footer';
 import Home from './pages/home';
 
 import './App.css'
-import LoginPage from './Pages/LoginPage';
-import SignUp from './Pages/Signup';
-import Logout from "./Pages/Logout" 
-import Profile from "./Pages/Profile"
-import Update from './Pages/Update';
+import LoginPage from './Page/LoginPage';
+import SignUp from './Page/Signup';
+import Logout from "./Page/Logout" 
+import Profile from "./Page/Profile"
+import Update from './Page/Update';
 
 function App() {
 
